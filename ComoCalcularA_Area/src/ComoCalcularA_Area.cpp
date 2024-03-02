@@ -10,7 +10,7 @@ int main(){
 	double baseMA;
 	double baseME;
 	double resu;
-	cout << "Como posso te ajudar a calcular a área de figuras planas? Caso queira fazer a área de um quadrado, pressione 1. Caso quiser calcular a área de um retângulo. Pressione 2. Pressione 3 caso queira calcular a área de um triângulo. Selecione 4 se quiser calcular a área de um trapézio. Ou pressione 5 para calcular a área de um losango. \n";
+	cout << "Como posso te ajudar a calcular a área de figuras planas? Caso queira fazer a área de um quadrado, pressione 1. Caso quiser calcular a área de um retângulo, pressione 2. Pressione 3 caso queira calcular a área de um triângulo. Selecione 4 se quiser calcular a área de um trapézio. Ou pressione 5 para calcular a área de um losango. \n";
 	cin >> escolha;
 	cin.ignore();
 	switch (escolha){
